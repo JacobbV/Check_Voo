@@ -68,25 +68,25 @@ Ao executar o script main.py, você verá um menu interativo com as seguintes op
 ## Estrutura do Projeto
 
 **Check_Voo/**
-# ├── src/
-# │   ├── main.py
-# │   ├── api.py
-# │   ├── busca.py
-# │   ├── consultas.py
-# │   ├── filtros.py
-# │   ├── menus.py
-# │   ├── utils.py
-# │   ├── voos_historicos.py
-# ├── img/
-# │   ├── airplane.png
-# ├── logs/
-# │   ├── erros.log
-# ├── output/
-# │   ├── mapa_aeronaves.html
-# ├── .env
-# ├── README.md
-# ├── requirements.txt
-# ├── LICENSE.md
+- ├── src/
+- │   ├── main.py
+- │   ├── api.py
+- │   ├── busca.py
+- │   ├── consultas.py
+- │   ├── filtros.py
+- │   ├── menus.py
+- │   ├── utils.py
+- │   ├── voos_historicos.py
+- ├── img/
+- │   ├── airplane.png
+- ├── logs/
+- │   ├── erros.log
+- ├── output/
+- │   ├── mapa_aeronaves.html
+- ├── .env
+- ├── README.md
+- ├── requirements.txt
+- ├── LICENSE.md
 
 ## Tecnologias Usadas
 
