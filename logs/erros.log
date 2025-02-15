@@ -1,0 +1,7 @@
+2025-02-14 17:16:37,809 - ERROR - Erro ao buscar dados da OpenSky API: HTTPSConnectionPool(host='opensky-network.org', port=443): Read timed out. (read timeout=30)
+2025-02-14 17:17:23,916 - ERROR - Erro ao buscar dados da OpenSky API: 504 Server Error: Gateway Time-out for url: https://opensky-network.org/api/states/all
+2025-02-14 17:31:40,477 - ERROR - Erro ao buscar dados da OpenSky API: 504 Server Error: Gateway Time-out for url: https://opensky-network.org/api/states/all
+2025-02-14 17:31:58,670 - ERROR - Erro ao buscar dados da OpenSky API: 504 Server Error: Gateway Time-out for url: https://opensky-network.org/api/states/all
+2025-02-14 17:32:22,059 - ERROR - Erro ao buscar dados da OpenSky API: 504 Server Error: Gateway Time-out for url: https://opensky-network.org/api/states/all
+2025-02-15 00:19:52,528 - ERROR - Erro ao exibir aeronaves no mapa: [Errno 2] No such file or directory: '../img/airplane.png'
+2025-02-15 00:47:14,332 - ERROR - Erro ao exibir aeronaves no mapa: could not locate runnable browser
