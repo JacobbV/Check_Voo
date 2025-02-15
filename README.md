@@ -65,28 +65,28 @@ Ao executar o script main.py, você verá um menu interativo com as seguintes op
 - **Ordenar voos**: Ordena voos por altitude, velocidade ou código de voo.
 - **Sair**: Encerra o programa.
 
-## Tecnologias Usadas
+## Estrutura do Projeto
 
-Check_Voo/
-├── src/
-│   ├── main.py
-│   ├── api.py
-│   ├── busca.py
-│   ├── consultas.py
-│   ├── filtros.py
-│   ├── menus.py
-│   ├── utils.py
-│   ├── voos_historicos.py
-├── img/
-│   ├── airplane.png
-├── logs/
-│   ├── erros.log
-├── output/
-│   ├── mapa_aeronaves.html
-├── .env
-├── README.md
-├── requirements.txt
-├── LICENSE.md
+**Check_Voo/**
+# ├── src/
+# │   ├── main.py
+# │   ├── api.py
+# │   ├── busca.py
+# │   ├── consultas.py
+# │   ├── filtros.py
+# │   ├── menus.py
+# │   ├── utils.py
+# │   ├── voos_historicos.py
+# ├── img/
+# │   ├── airplane.png
+# ├── logs/
+# │   ├── erros.log
+# ├── output/
+# │   ├── mapa_aeronaves.html
+# ├── .env
+# ├── README.md
+# ├── requirements.txt
+# ├── LICENSE.md
 
 ## Tecnologias Usadas
 
@@ -111,8 +111,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 ## Autor
 
 Feito por Rameson Jacó Gomes da Fonseca 
-[GitHub](https://github.com/JacobbV) 
-[LinkedIn](https://www.linkedin.com/in/rameson-jacó-772547120/)
+- [GitHub](https://github.com/JacobbV) 
+- [LinkedIn](https://www.linkedin.com/in/rameson-jacó-772547120/)
 
 ## Observações
 
